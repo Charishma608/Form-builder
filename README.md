@@ -34,10 +34,3 @@ pnpm dev
 ```
 
 4. Open your browser and visit `http://localhost:port`
-
-# or
-pnpm build
-```
-
-The built files will be in the `dist` directory, ready to be deployed.
-# form-builder-hypergro-frontend
